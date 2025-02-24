@@ -1,7 +1,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/78juli/AudioSR-Colab-Fork/blob/main/AudioSR_Colab_Fork.ipynb)
 
-Edit: 78Juli
+Edit:
 Changed the Inference cell input to take many comma (and space) separated files to process one after the other
 
 
@@ -10,7 +10,7 @@ Changed the Inference cell input to take many comma (and space) separated files 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-
+#support the original project:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q811R5YI)  
 # AudioSR-Colab-Fork v0.5
 
